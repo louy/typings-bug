@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "chalk": "github:typings/typed-chalk#a7e422c5455e70292e5675a727d43a7b05fc3e58"
+  },
+  "devDependencies": {}
+}
